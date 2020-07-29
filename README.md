@@ -2,7 +2,10 @@
 
 
 This has two EXE files 1) GUI EXE 2) Client EXE
+
 How to use this
+
+
 1 Copy "ClientFiles" Folder to target servers, it has "PatchDepot" folder and the client agent EXE [WindowsPatchingHelperClient.exe].
 
 2 Copy patches [MSU files] to the target server "\\\\TargetServer\c$\ClientFiles\PatchDepot"
