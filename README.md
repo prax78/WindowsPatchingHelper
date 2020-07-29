@@ -7,7 +7,7 @@ How to use this
 
 2 Copy patches [MSU files] to the target server "\\\\TargetServer\c$\ClientFiles\PatchDepot"
 
-3 Now run the GUI EXE from any server that can connect to your target servers over WMI.
+3 Now run the GUI EXE from any server that can connect to your target servers over WMI[WindowsPatchingHelperGUI.exe].
 
 ![alt text](https://github.com/prax78/WindowsPatchingHelper/blob/master/patchtool.png?raw=true)
 
