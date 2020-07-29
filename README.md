@@ -9,6 +9,6 @@ How to use this
 
 3 Now run the GUI EXE from any server that can connect to your target servers over WMI[WindowsPatchingHelperGUI.exe].
 
-![alt text](https://github.com/prax78/WindowsPatchingHelper/blob/master/patchtool.png?raw=true)
+![alt text](https://github.com/prax78/WindowsPatchingHelper/blob/master/WindowsPatchingHelperV1/patchtool.png?raw=true)
 
 4 You can pull HotFix report by Clicking "Report" Menu Item post patching.
