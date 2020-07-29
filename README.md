@@ -17,6 +17,6 @@ This has two EXE files 1) GUI EXE 2) Client EXE
   		B)RemoteEXE Path=> This is the location of WindowsPatchingHelperClient.exe on the Remote server.
   
 
--![alt text](https://github.com/prax78/WindowsPatchingHelper/blob/master/WindowsPatchingHelperV1/patchtool.png?raw=true)
+![alt text](https://github.com/prax78/WindowsPatchingHelper/blob/master/WindowsPatchingHelperV1/patchtool.png?raw=true)
 
 4 You can pull HotFix report by Clicking "Report" Menu Item post patching.
