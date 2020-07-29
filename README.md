@@ -11,7 +11,7 @@ How to use this
 
  	 	A) Server.txt=> This must have servernames, one server per line.
 		
-  	B)RemoteEXE Path=> This is the location of WindowsPatchingHelperClient.exe on the Remote server.
+  		B)RemoteEXE Path=> This is the location of WindowsPatchingHelperClient.exe on the Remote server.
   
 
 ![alt text](https://github.com/prax78/WindowsPatchingHelper/blob/master/WindowsPatchingHelperV1/patchtool.png?raw=true)
